@@ -22,9 +22,13 @@ Here's a walkthrough of this Android application:
 
 (Will be added later)
 
+## Notes
+
+Learning focuses of this app was to obtain knowledge and practice RecyclerView, navigating between screens with data (using Intents), integrating map/location data, persisting data, etc.
+
 ## License
 
-    Copyright 2021 Jason Cala
+    Copyright 2022 Jason Cala
 
     Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
