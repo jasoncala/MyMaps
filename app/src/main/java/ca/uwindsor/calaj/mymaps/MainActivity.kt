@@ -10,6 +10,7 @@ import ca.uwindsor.calaj.mymaps.models.Place
 import ca.uwindsor.calaj.mymaps.models.UserMap
 
 private const val TAG = "MainActivity"
+const val EXTRA_USER_MAP = "EXTRA_USER_MAP"
 
 class MainActivity : AppCompatActivity() {
 
@@ -31,6 +32,7 @@ class MainActivity : AppCompatActivity() {
                 Log.i(TAG, "onItemClick $position")
                 // When a user taps on view in RV, navigate to new activity
                 val intent = Intent(this@MainActivity, DisplayMapActivity::class.java)
+                intent.putExtra(EXTRA_USER_MAP, userMaps[position])
                 startActivity(intent)
             }
 
