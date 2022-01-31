@@ -8,8 +8,8 @@
 
 This app has the following functionalities:
 
-* [ ] The list of map titles is displayed.
-* [ ] After tapping on a map title, the associated markers in the map are shown.
+* [x] The list of map titles is displayed.
+* [x] After tapping on a map title, the associated markers in the map are shown.
 * [ ] The user is able to create a new map.
 
 The following **extensions** are planned to be implemented:
