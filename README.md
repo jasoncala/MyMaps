@@ -10,17 +10,13 @@ This app has the following functionalities:
 
 * [x] The list of map titles is displayed.
 * [x] After tapping on a map title, the associated markers in the map are shown.
-* [ ] The user is able to create a new map.
-
-The following **extensions** are planned to be implemented:
-
-* [ ] When a map marker is created, the pin is animated.
+* [x] The user is able to create a new map.
 
 ## Video Walkthrough
 
-Here's a walkthrough of this Android application:
+Here's a walkthrough of some features in this Android application:
 
-(Will be added later)
+<img src='https://j.gifs.com/w07qGr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
